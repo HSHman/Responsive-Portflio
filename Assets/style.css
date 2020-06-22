@@ -131,3 +131,10 @@ text-align: center;
 
 
 
+.footer {
+width: 100%;
+text-align: center;
+margin-top: 1rem;
+background-color: rgb(255, 255, 255);
+color: rgb(227, 224, 255);
+}
